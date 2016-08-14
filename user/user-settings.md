@@ -55,3 +55,6 @@ This page displays all applications that have connections to your account and yo
 4. Clicking here will let anyone yu share a server with to send you a friend request.
 
 ## Text & Images
+
+![](http://i.imgur.com/Rzo7yu0.png)
+
