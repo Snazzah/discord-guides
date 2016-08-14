@@ -44,3 +44,14 @@ Connecting accounts to Discord can be integrted to servers and is also the place
 This page displays all applications that have connections to your account and you can turn off these connections be hovering on the card and clicking `Delete` on the top-right of the card.
 
 ![](http://i.imgur.com/KHvLxGM.png)
+
+## Friends
+
+![](http://i.imgur.com/gsusZv5.png)
+
+1. Clicking here will let anyone with your email address to send you a friend request.
+2. Clicking here will let anyone with your name and discriminator to send you a friend request.
+3. Clicking here will let friends of firends to send you a friend request.
+4. Clicking here will let anyone yu share a server with to send you a friend request.
+
+## Text & Images
