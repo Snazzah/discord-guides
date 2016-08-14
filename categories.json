@@ -20,6 +20,10 @@
     "file": "user",
 
     "documents": [
+	  {
+        "name": "User Settings",
+        "file": "user-settings.md"
+      },
       {
         "name": "Direct Messages and Friends: The Basics",
         "file": "direct-messages-and-friends.md"
