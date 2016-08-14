@@ -17,12 +17,30 @@ This guide will go through all the setting tabs in order.
 
 1. Username: Change your username by simply typing you new wanted name and re-entering your password. You can only change you name twice in one hour.
 
-2. Email: Automaticlly entered when opening the User Settings window.
+2. Email: Automatically entered when opening the User Settings window.
 
-3. Password: Enter your password here when changing your name.
+3. Current Password: Enter your password here when changing your name.
 
 4. Change Password?: Click here to request to change your password.
 
 5. Avatar: Clicking here will let you change your avatar. You don't have to enter your password to change your avatar.
 
 6. Remove: Removes your current avatr and replaces it with the default discord user icon.
+
+## Integrations
+### Connected Accounts
+Connecting accounts to Discord can be integrted to servers and is also the place to join servers that followers/subscribers made.
+
+![](http://i.imgur.com/DWoXuox.png)
+
+1. Connect To Youtube: Connect your Youtube account to Discord.
+
+2. Connect To Twitch: Connect your Twitch account to Discord.
+
+3. Delete: Disconnect your twitch/youtube account from Discord.
+
+### Authorized Apps
+
+This page displays all applications that have connections to your account and you can turn off these connections be hovering on the card and clicking `Delete` on the top-right of the card.
+
+![](http://i.imgur.com/KHvLxGM.png)
